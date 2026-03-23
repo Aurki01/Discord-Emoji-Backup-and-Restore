@@ -29,7 +29,7 @@ Enable Message Content Intent → Save
 
 
 # Commands
-Command	Description<br>
+
 /backup	Backs up all emojis and stickers to a ZIP file
 /restore	Attach a backup ZIP file — the bot uploads all emojis and stickers back to the server
 
